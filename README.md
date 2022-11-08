@@ -5,7 +5,7 @@ I didn't know if I should have uploaded this project, as its just a university a
 The original project was cool by itself as it asked us to build a 12 bit assembler. I just had one issue with it. It had to many guidelines.  
 The question tells us: what data structures to use, how the assembler flow should work, what can we assume, etc'.  
 So I have decided to create my own type of assembler, with unique techniques, data structures usage and most importantly the flow.  
-I won't lie, <mark>this was the worst mistake of my life</mark>... Who am I to redesign an assembler. This made it nearly impossible.   
+I won't lie, <b>this was the worst mistake of my life</b>... Who am I to redesign an assembler. This made it nearly impossible.   
 But as my mom told me when I was a child, "Finish what you started".  
 
 
