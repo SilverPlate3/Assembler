@@ -23,3 +23,10 @@ But as my mom told me when I was a child, "Finish what you started".
 - The question is 25 pages long with very "sophisticated" Hebrew terms. So even the Hebrew speakers may face difficulties.
 - The Main() function is 215 lines long. (But remember its C).
 - The program is pretty efficient except the 3 Symbols tables which are extremely not (But I was eager to implement Hash Tables).
+
+
+# Usage
+- The project should be compiled in release mode. But if you want to check that there are no memory leaks, you must use debug. The program finishes with _CrtDumpMemoryLeaks() for that purpose.
+- Command line: Assembler.exe "{Full path}\Assembler\Input files\a" "{Full path}\Assembler\Input files\b4" "{Full path}\Assembler\Input files\c!1"
+- Output files: Will be created in the same folder as corresponding input file. You should except output files only for a.as and c!1.as. 
+b4.as intentionally contains broken code, so you can see how the assembler handles errors in input code. 
