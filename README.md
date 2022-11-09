@@ -1,7 +1,7 @@
 # Assembler
 
 # Background 
-I didn't know if I should have uploaded this project, as its just a university assignment that I took totally off the rails...  
+I didn't know if I should upload this project, as its just a university assignment that I took totally off the rails...  
 The original project was cool by itself as it asked us to build a 12 bit assembler. I just had one issue with it. It had to many guidelines.  
 The question tells us: what data structures to use, how the assembler flow should work, what can we assume, etc'.  
 So I have decided to create my own type of assembler, with unique techniques, data structures usage and most importantly the flow.  
